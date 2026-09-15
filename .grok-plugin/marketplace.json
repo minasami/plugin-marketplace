@@ -557,7 +557,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/minasami/medicine-support-hub.git",
-        "sha": "904638cbc87bef3ce86a89ca90ea12872e2f5474",
+        "sha": "ff49a0af67b1a32d1e4faab0d1a6b2a6345fd180",
         "path": "apps/mcp-server/marketplaces/grok/medicine-support-hub"
       },
       "homepage": "https://medicinesupport.app",
