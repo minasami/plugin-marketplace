@@ -553,6 +553,7 @@
       "name": "medicine-support-hub",
       "description": "Egyptian medicine catalog search, indicative EGP costs, same-INN price compare, insurance hints, and signed-in support/prescription/watchlist tools via remote MCP (OAuth).",
       "category": "productivity",
+      "version": "0.3.1",
       "source": {
         "source": "url",
         "url": "https://github.com/minasami/medicine-support-hub.git",
@@ -571,8 +572,7 @@
         "medicinesupport.app",
         "mcp.medicinesupport.app",
         "msh-mcp.vercel.app"
-      ],
-      "version": "0.3.1"
+      ]
     }
   ]
 }
